@@ -8,113 +8,113 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OnlineBook
 build_property.RootNamespace = OnlineBook
-build_property.ProjectDir = C:\Users\Engy\source\repos\OnlineBook\OnlineBook\
+build_property.ProjectDir = C:\Users\hp\Desktop\New folder\online_book\OnlineBook\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Engy\source\repos\OnlineBook\OnlineBook
+build_property.MSBuildProjectDirectory = C:\Users\hp\Desktop\New folder\online_book\OnlineBook
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/books/catalogue.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/books/catalogue.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcY2F0YWxvZ3VlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/books/Create.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/books/Delete.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/books/Details.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/books/Edit.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/books/Index.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/Home/Index.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/Home/Privacy.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/orders/Create.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/orders/customerOrders.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/orders/customerOrders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXGN1c3RvbWVyT3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/orders/customerreport.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/orders/customerreport.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXGN1c3RvbWVycmVwb3J0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/orders/Delete.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/orders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/orders/Details.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/orders/Edit.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/orders/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/orders/Index.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/orders/myorders.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/orders/myorders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3JkZXJzXG15b3JkZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/Shared/Error.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/Shared/_Layout1.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/usersaccounts/Create.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/usersaccounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/usersaccounts/Edit.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/usersaccounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/usersaccounts/Index.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/usersaccounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/usersaccounts/login.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/usersaccounts/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xsb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/_ViewImports.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/_ViewStart.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Engy/source/repos/OnlineBook/OnlineBook/Views/Shared/_Layout.cshtml]
+[C:/Users/hp/Desktop/New folder/online_book/OnlineBook/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tb9acphhlk

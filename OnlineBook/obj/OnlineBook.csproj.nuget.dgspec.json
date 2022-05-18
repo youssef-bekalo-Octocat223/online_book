@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Engy\\source\\repos\\OnlineBook\\OnlineBook\\OnlineBook.csproj": {}
+    "C:\\Users\\hp\\Desktop\\New folder\\online_book\\OnlineBook\\OnlineBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Engy\\source\\repos\\OnlineBook\\OnlineBook\\OnlineBook.csproj": {
+    "C:\\Users\\hp\\Desktop\\New folder\\online_book\\OnlineBook\\OnlineBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Engy\\source\\repos\\OnlineBook\\OnlineBook\\OnlineBook.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\New folder\\online_book\\OnlineBook\\OnlineBook.csproj",
         "projectName": "OnlineBook",
-        "projectPath": "C:\\Users\\Engy\\source\\repos\\OnlineBook\\OnlineBook\\OnlineBook.csproj",
-        "packagesPath": "C:\\Users\\Engy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Engy\\source\\repos\\OnlineBook\\OnlineBook\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\New folder\\online_book\\OnlineBook\\OnlineBook.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\New folder\\online_book\\OnlineBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Engy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
